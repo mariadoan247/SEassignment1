@@ -1,5 +1,9 @@
 // Using id_str to get show the exact value because of the roundoff error
 
+// New addition for assignment 2 task 9
+function test_print(){
+	console.log("test code")
+};
 
 $(function() {
    //Get 
