@@ -9,7 +9,7 @@ COPY . .
 RUN npm install
 
 # define the port number the container should expose
-EXPOSE 5000
+EXPOSE 3000
 
 # run the command
 CMD ["python", "./main.py"]
